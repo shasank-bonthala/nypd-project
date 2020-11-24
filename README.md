@@ -1,2 +1,4 @@
 # nypd-project
 After the New York state repealed a law that kept police disciplinary records secret, records that investigates complaints by the public about New York City police officers were released. The data provides the closed cases of every active-duty police officer who had at least one substantiated allegation against them. The records span decades, from September 1985 to January 2020. This project serves as a deep look into this data set to investigate different aspects of the complaints.
+
+The jupyter notebook titled, nypd.ipynb, contains all the code along with the summary of findings. The csv files represent the datasets, allegations being the main one with over 12000+ rows of complains of NYPD officers from civilians. The nypd_data_dictionary csv file provides explinations for each of the column headers in the allegations csv file.
